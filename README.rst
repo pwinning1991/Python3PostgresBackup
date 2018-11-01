@@ -1,7 +1,7 @@
 pgbackup
 =======
 
-CLI for backup remote PostgreSQL databse either locally or to S3
+CLI for backup remote PostgreSQL database either locally or to S3
 
 Preapring the Development
 ------------------------
@@ -36,10 +36,10 @@ Run tests locally using ``make`` if virtualenv is active:
 
      $ make
 
-If virtualend isn't active then use:
+If virtualenv isn't active then use:
 
 ::
 
-     4 pipenv run make
+     $ pipenv run make
 
 
